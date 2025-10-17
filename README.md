@@ -16,7 +16,7 @@ A simple Java console-based CRUD application using JDBC and MySQL.
 
 ## Database Setup
 ```sql
-CREATE DATABASE companydb;
+CREATE DATABASE PracticeDemo;
 USE companydb;
 CREATE TABLE employees (
   id INT PRIMARY KEY,
